@@ -20,15 +20,11 @@ package org.japo.java.main;
  * @author Elísabet Palomino
  */
 public class Main {
-    
+
     public static void main(String[] args) {
-        
-        
-        System.out.println ("Hola Mundo");    //System es una clase,out es un recurso de la clase System. el punto indica el recurso.  
-           
-             
-        
-        
+
+        System.out.println("Hola Mundo");    //System es una clase,out es un recurso de la clase System. el punto indica el recurso.  
+
     }//main
-    
+
 }//class
